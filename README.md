@@ -39,7 +39,7 @@ The project is organized as a Unity project containing the source code, assets, 
 3. Open the main scene.
 4. Run the project from the Unity Editor.
 
-## Purpose
+# Purpose
 
 The project was developed to study physics simulation and the behavior of deformable objects in a real-time Unity environment.
 
