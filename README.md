@@ -1,6 +1,6 @@
-================================================
+
 FILE: README.md
-================================================
+
 # Soft-Body Physics Simulation System in Unity
 
 A real-time soft-body physics simulation developed in Unity using C#.
@@ -47,7 +47,7 @@ The project was developed to study physics simulation and the behavior of deform
 
 
 FILE: ignore.conf
-================================================
+
 Library
 library
 Temp
@@ -112,9 +112,9 @@ Desktop.ini
 
 
 
-================================================
+
 FILE: .vsconfig
-================================================
+
 {
   "version": "1.0",
   "components": [
@@ -124,9 +124,9 @@ FILE: .vsconfig
 
 
 
-================================================
+
 FILE: Assets/Readme.asset
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!114 &11400000
@@ -164,9 +164,9 @@ MonoBehaviour:
 
 
 
-================================================
+
 FILE: Assets/Readme.asset.meta
-================================================
+
 fileFormatVersion: 2
 guid: 8105016687592461f977c054a80ce2f2
 NativeFormatImporter:
@@ -178,9 +178,9 @@ NativeFormatImporter:
 
 
 
-================================================
+
 FILE: Assets/Animation.meta
-================================================
+
 fileFormatVersion: 2
 guid: f945e2de4e67e4d4298720359fd706ea
 folderAsset: yes
@@ -192,9 +192,9 @@ DefaultImporter:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox.meta
-================================================
+
 fileFormatVersion: 2
 guid: 7c5e1016ce6fba44ca28ee4414f70db9
 folderAsset: yes
@@ -206,9 +206,9 @@ DefaultImporter:
 
 
 
-================================================
+
 FILE: Assets/delay.cs
-================================================
+
 using UnityEngine;
 using System.Collections;
 public class delay : MonoBehaviour
@@ -234,16 +234,16 @@ public class delay : MonoBehaviour
 
 
 
-================================================
+
 FILE: Assets/delay.cs.meta
-================================================
+
 fileFormatVersion: 2
 guid: bb6847ee56e9f974c852de4735b8fe4a
 
 
-================================================
+
 FILE: Assets/InputSystem_Actions.inputactions
-================================================
+
 {
     "name": "InputSystem_Actions",
     "maps": [
@@ -1303,9 +1303,9 @@ FILE: Assets/InputSystem_Actions.inputactions
 }
 
 
-================================================
+
 FILE: Assets/InputSystem_Actions.inputactions.meta
-================================================
+
 fileFormatVersion: 2
 guid: 052faaac586de48259a63d0c4782560b
 ScriptedImporter:
@@ -1323,9 +1323,9 @@ ScriptedImporter:
 
 
 
-================================================
+
 FILE: Assets/LastPanel.prefab.meta
-================================================
+
 fileFormatVersion: 2
 guid: 1450103242bb45b4bac62430039271be
 PrefabImporter:
@@ -1336,9 +1336,9 @@ PrefabImporter:
 
 
 
-================================================
+
 FILE: Assets/MangeTime.cs
-================================================
+
 using UnityEngine;
 
 public class MangeTime : MonoBehaviour
@@ -1358,16 +1358,16 @@ public class MangeTime : MonoBehaviour
 
 
 
-================================================
+
 FILE: Assets/MangeTime.cs.meta
-================================================
+
 fileFormatVersion: 2
 guid: 5e6c3bb3123843e4bb829c8ccc6d9a15
 
 
-================================================
+
 FILE: Assets/MangeTimeFall.cs
-================================================
+
 using UnityEngine;
 
 public class MangeTimeFall : MonoBehaviour
@@ -1384,16 +1384,16 @@ public class MangeTimeFall : MonoBehaviour
 
 
 
-================================================
+
 FILE: Assets/MangeTimeFall.cs.meta
-================================================
+
 fileFormatVersion: 2
 guid: 69d1a7923cbd2bd46bd81e8d41069d04
 
 
-================================================
+
 FILE: Assets/Models.meta
-================================================
+
 fileFormatVersion: 2
 guid: c10a402de45281140b1351326fd1b398
 folderAsset: yes
@@ -1405,9 +1405,9 @@ DefaultImporter:
 
 
 
-================================================
+
 FILE: Assets/MoveLeft.cs
-================================================
+
 using UnityEngine;
 
 public class MoveLeft : MonoBehaviour
@@ -1433,16 +1433,16 @@ public class MoveLeft : MonoBehaviour
 
 
 
-================================================
+
 FILE: Assets/MoveLeft.cs.meta
-================================================
+
 fileFormatVersion: 2
 guid: a3842078decfd444d9f44a5c7ce6bdce
 
 
-================================================
+
 FILE: Assets/MoveRight.cs
-================================================
+
 using UnityEngine;
 
 public class MoveRight : MonoBehaviour
@@ -1469,16 +1469,16 @@ public class MoveRight : MonoBehaviour
 
 
 
-================================================
+
 FILE: Assets/MoveRight.cs.meta
-================================================
+
 fileFormatVersion: 2
 guid: 8653c31d46799d44a8a72b7e82ace6e0
 
 
-================================================
+
 FILE: Assets/Prefabs.meta
-================================================
+
 fileFormatVersion: 2
 guid: 4c680ad9224bd7645982706398b6682c
 folderAsset: yes
@@ -1490,9 +1490,9 @@ DefaultImporter:
 
 
 
-================================================
+
 FILE: Assets/Resources.meta
-================================================
+
 fileFormatVersion: 2
 guid: dddcff0a036f2d040bb66c28bf831d71
 folderAsset: yes
@@ -1504,9 +1504,9 @@ DefaultImporter:
 
 
 
-================================================
+
 FILE: Assets/SceneMangerBar.cs
-================================================
+
 ﻿using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -1520,16 +1520,16 @@ public class SceneManagerBar : MonoBehaviour
 
 
 
-================================================
+
 FILE: Assets/SceneMangerBar.cs.meta
-================================================
+
 fileFormatVersion: 2
 guid: 448e7964d6627414c8325c35ae7741fd
 
 
-================================================
+
 FILE: Assets/Scenes.meta
-================================================
+
 fileFormatVersion: 2
 guid: 9c53962885c2c4f449125a979d6ad240
 folderAsset: yes
@@ -1541,9 +1541,9 @@ DefaultImporter:
 
 
 
-================================================
+
 FILE: Assets/SceneSpawner.cs
-================================================
+
 ﻿using UnityEngine;
 using UnityEngine.UI;
 using System.Collections.Generic;
@@ -1618,9 +1618,9 @@ public class SceneSpawner : MonoBehaviour
 
 
 
-================================================
+
 FILE: Assets/SceneSpawner.cs.meta
-================================================
+
 fileFormatVersion: 2
 guid: 5bcc6a65658a7e3429c020bda7c12869
 MonoImporter:
@@ -1635,9 +1635,9 @@ MonoImporter:
 
 
 
-================================================
+
 FILE: Assets/scripts.meta
-================================================
+
 fileFormatVersion: 2
 guid: 33eb7dc2177ec3246bae59fa82b62051
 folderAsset: yes
@@ -1649,9 +1649,9 @@ DefaultImporter:
 
 
 
-================================================
+
 FILE: Assets/Settings.meta
-================================================
+
 fileFormatVersion: 2
 guid: 709f11a7f3c4041caa4ef136ea32d874
 folderAsset: yes
@@ -1663,9 +1663,9 @@ DefaultImporter:
 
 
 
-================================================
+
 FILE: Assets/ShapeUIController.cs
-================================================
+
 ﻿using UnityEngine;
 using UnityEngine.UI;
 
@@ -1743,9 +1743,9 @@ public class ShapeUIController : MonoBehaviour
 
 
 
-================================================
+
 FILE: Assets/ShapeUIController.cs.meta
-================================================
+
 fileFormatVersion: 2
 guid: 5a71bba5858837042930e5c91485f243
 MonoImporter:
@@ -1760,9 +1760,9 @@ MonoImporter:
 
 
 
-================================================
+
 FILE: Assets/TextMesh Pro.meta
-================================================
+
 fileFormatVersion: 2
 guid: f54d1bd14bd3ca042bd867b519fee8cc
 folderAsset: yes
@@ -1774,9 +1774,9 @@ DefaultImporter:
 
 
 
-================================================
+
 FILE: Assets/TutorialInfo.meta
-================================================
+
 fileFormatVersion: 2
 guid: ba062aa6c92b140379dbc06b43dd3b9b
 folderAsset: yes
@@ -1788,9 +1788,9 @@ DefaultImporter:
 
 
 
-================================================
+
 FILE: Assets/Animation/AirForceMetal.anim
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!74 &7400000
@@ -1916,9 +1916,9 @@ AnimationClip:
 
 
 
-================================================
+
 FILE: Assets/Animation/AirForceMetal.anim.meta
-================================================
+
 fileFormatVersion: 2
 guid: d9dae3b28288df247a7f9c27b2c8d058
 NativeFormatImporter:
@@ -1930,9 +1930,9 @@ NativeFormatImporter:
 
 
 
-================================================
+
 FILE: Assets/Animation/CrushWithWall.anim
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!74 &7400000
@@ -2189,9 +2189,9 @@ AnimationClip:
 
 
 
-================================================
+
 FILE: Assets/Animation/CrushWithWall.anim.meta
-================================================
+
 fileFormatVersion: 2
 guid: bfde886592262d742a4eb53ba8990443
 NativeFormatImporter:
@@ -2203,9 +2203,9 @@ NativeFormatImporter:
 
 
 
-================================================
+
 FILE: Assets/Animation/CrushWithWall.controller
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!1107 &-8701824421680985892
@@ -2281,9 +2281,9 @@ AnimatorController:
 
 
 
-================================================
+
 FILE: Assets/Animation/CrushWithWall.controller.meta
-================================================
+
 fileFormatVersion: 2
 guid: 821d8e4e596b67e41b400dfb8c6fc3f1
 NativeFormatImporter:
@@ -2295,9 +2295,9 @@ NativeFormatImporter:
 
 
 
-================================================
+
 FILE: Assets/Animation/Drag.anim
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!74 &7400000
@@ -2507,9 +2507,9 @@ AnimationClip:
 
 
 
-================================================
+
 FILE: Assets/Animation/Drag.anim.meta
-================================================
+
 fileFormatVersion: 2
 guid: 9c37757a3f203704ebce67a826de08b9
 NativeFormatImporter:
@@ -2521,9 +2521,9 @@ NativeFormatImporter:
 
 
 
-================================================
+
 FILE: Assets/Animation/Higher_K.anim
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!74 &7400000
@@ -2988,9 +2988,9 @@ AnimationClip:
 
 
 
-================================================
+
 FILE: Assets/Animation/Higher_K.anim.meta
-================================================
+
 fileFormatVersion: 2
 guid: f4e844893512393478c078eb530503d4
 NativeFormatImporter:
@@ -3002,9 +3002,9 @@ NativeFormatImporter:
 
 
 
-================================================
+
 FILE: Assets/Animation/JellyCube 1.controller
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!1102 &-1953823046137127763
@@ -3080,9 +3080,9 @@ AnimatorController:
 
 
 
-================================================
+
 FILE: Assets/Animation/JellyCube 1.controller.meta
-================================================
+
 fileFormatVersion: 2
 guid: 4262aeb560e7fb749a85a0275b430d82
 NativeFormatImporter:
@@ -3094,9 +3094,9 @@ NativeFormatImporter:
 
 
 
-================================================
+
 FILE: Assets/Animation/JellyCube.controller
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!1102 &-7446087708417816707
@@ -3201,9 +3201,9 @@ AnimatorState:
 
 
 
-================================================
+
 FILE: Assets/Animation/JellyCube.controller.meta
-================================================
+
 fileFormatVersion: 2
 guid: b488d80a795c9c14ba200e04a98ce55c
 NativeFormatImporter:
@@ -3215,9 +3215,9 @@ NativeFormatImporter:
 
 
 
-================================================
+
 FILE: Assets/Animation/JellyCylinder.controller
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!1102 &-7573705738572329084
@@ -3293,9 +3293,9 @@ AnimatorStateMachine:
 
 
 
-================================================
+
 FILE: Assets/Animation/JellyCylinder.controller.meta
-================================================
+
 fileFormatVersion: 2
 guid: b2570be8750b22e49a25316ddafc5805
 NativeFormatImporter:
@@ -3307,9 +3307,9 @@ NativeFormatImporter:
 
 
 
-================================================
+
 FILE: Assets/Animation/MetalBall.controller
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!1102 &-4611754930876166471
@@ -3385,9 +3385,9 @@ AnimatorStateMachine:
 
 
 
-================================================
+
 FILE: Assets/Animation/MetalBall.controller.meta
-================================================
+
 fileFormatVersion: 2
 guid: 1fd855438c98ed44393b22894b792979
 NativeFormatImporter:
@@ -3399,9 +3399,9 @@ NativeFormatImporter:
 
 
 
-================================================
+
 FILE: Assets/Animation/MoveLeft.anim
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!74 &7400000
@@ -3596,9 +3596,9 @@ AnimationClip:
 
 
 
-================================================
+
 FILE: Assets/Animation/MoveLeft.anim.meta
-================================================
+
 fileFormatVersion: 2
 guid: 498c83c98f33f604eb07f4dd8f40cd8e
 NativeFormatImporter:
@@ -3610,9 +3610,9 @@ NativeFormatImporter:
 
 
 
-================================================
+
 FILE: Assets/Animation/MoveRight.anim
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!74 &7400000
@@ -3800,9 +3800,9 @@ AnimationClip:
 
 
 
-================================================
+
 FILE: Assets/Animation/MoveRight.anim.meta
-================================================
+
 fileFormatVersion: 2
 guid: 0d81c04b2190cd443bc69211f7cd21d6
 NativeFormatImporter:
@@ -3814,9 +3814,9 @@ NativeFormatImporter:
 
 
 
-================================================
+
 FILE: Assets/Animation/MoveRight.controller
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!1102 &-6259481724461121199
@@ -3892,9 +3892,9 @@ AnimatorStateMachine:
 
 
 
-================================================
+
 FILE: Assets/Animation/MoveRight.controller.meta
-================================================
+
 fileFormatVersion: 2
 guid: d9fa5d5f909d93e49a70384a026cc161
 NativeFormatImporter:
@@ -3906,9 +3906,9 @@ NativeFormatImporter:
 
 
 
-================================================
+
 FILE: Assets/Animation/RubberAireForce.anim
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!74 &7400000
@@ -4034,9 +4034,9 @@ AnimationClip:
 
 
 
-================================================
+
 FILE: Assets/Animation/RubberAireForce.anim.meta
-================================================
+
 fileFormatVersion: 2
 guid: 7b36c322bf7177047a3757622298cf18
 NativeFormatImporter:
@@ -4048,9 +4048,9 @@ NativeFormatImporter:
 
 
 
-================================================
+
 FILE: Assets/Animation/RubberBall.controller
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!1107 &-8735405585226034785
@@ -4126,9 +4126,9 @@ AnimatorController:
 
 
 
-================================================
+
 FILE: Assets/Animation/RubberBall.controller.meta
-================================================
+
 fileFormatVersion: 2
 guid: 678b0a2420bf42c49a9595f8d229d4eb
 NativeFormatImporter:
@@ -4140,9 +4140,9 @@ NativeFormatImporter:
 
 
 
-================================================
+
 FILE: Assets/Animation/RubberCube 1.controller
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!1107 &-5727424160238987364
@@ -4218,9 +4218,9 @@ AnimatorController:
 
 
 
-================================================
+
 FILE: Assets/Animation/RubberCube 1.controller.meta
-================================================
+
 fileFormatVersion: 2
 guid: bcae1d40f3bb38b4c85a5f7a282fe4e0
 NativeFormatImporter:
@@ -4232,9 +4232,9 @@ NativeFormatImporter:
 
 
 
-================================================
+
 FILE: Assets/Animation/RubberCube.controller
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!91 &9100000
@@ -4310,9 +4310,9 @@ AnimatorStateMachine:
 
 
 
-================================================
+
 FILE: Assets/Animation/RubberCube.controller.meta
-================================================
+
 fileFormatVersion: 2
 guid: f4733e62cfd51214cb577c1ab681fe66
 NativeFormatImporter:
@@ -4324,9 +4324,9 @@ NativeFormatImporter:
 
 
 
-================================================
+
 FILE: Assets/Animation/ShootBall.anim
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!74 &7400000
@@ -4466,9 +4466,9 @@ AnimationClip:
 
 
 
-================================================
+
 FILE: Assets/Animation/ShootBall.anim.meta
-================================================
+
 fileFormatVersion: 2
 guid: e402082df14e9a844abf1e7186cf1cd9
 NativeFormatImporter:
@@ -4480,9 +4480,9 @@ NativeFormatImporter:
 
 
 
-================================================
+
 FILE: Assets/Animation/ShootBall.controller
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!91 &9100000
@@ -4558,9 +4558,9 @@ AnimatorState:
 
 
 
-================================================
+
 FILE: Assets/Animation/ShootBall.controller.meta
-================================================
+
 fileFormatVersion: 2
 guid: 5b9d5f5c0df86934b97b36a1c096e989
 NativeFormatImporter:
@@ -4572,9 +4572,9 @@ NativeFormatImporter:
 
 
 
-================================================
+
 FILE: Assets/Animation/Try.anim
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!74 &7400000
@@ -4682,9 +4682,9 @@ AnimationClip:
 
 
 
-================================================
+
 FILE: Assets/Animation/Try.anim.meta
-================================================
+
 fileFormatVersion: 2
 guid: 675cd464d011b8541947e21b115afb0b
 NativeFormatImporter:
@@ -4696,9 +4696,9 @@ NativeFormatImporter:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Customizable Skybox Documentaion.pdf.meta
-================================================
+
 fileFormatVersion: 2
 guid: 631feaddbe683ed4383934ae4201e481
 DefaultImporter:
@@ -4716,9 +4716,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Materials.meta
-================================================
+
 fileFormatVersion: 2
 guid: ea580a49e393d474a8246aed4e6421fe
 folderAsset: yes
@@ -4730,9 +4730,9 @@ DefaultImporter:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Model.meta
-================================================
+
 fileFormatVersion: 2
 guid: b3a8b5ae7212a5e469e5295bd49eb2b9
 folderAsset: yes
@@ -4744,9 +4744,9 @@ DefaultImporter:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Scenes.meta
-================================================
+
 fileFormatVersion: 2
 guid: 4c87f64bb2d3ca445ac1badce6b5c0d4
 folderAsset: yes
@@ -4758,9 +4758,9 @@ DefaultImporter:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky.meta
-================================================
+
 fileFormatVersion: 2
 guid: 135450dfab8085c4ebd673f58f013df4
 folderAsset: yes
@@ -4772,9 +4772,9 @@ DefaultImporter:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Materials/Clouds.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -4855,9 +4855,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Materials/Clouds.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: b2fcea6c7d9dbab4ca781825705d50be
 NativeFormatImporter:
@@ -4876,9 +4876,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Materials/dark trunk.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -4959,9 +4959,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Materials/dark trunk.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: 7c7f7e923f30d8b4193dfc9a7eb33ea9
 NativeFormatImporter:
@@ -4980,9 +4980,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Materials/darken leafs.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -5063,9 +5063,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Materials/darken leafs.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: 3020cfb028abb6c4f977e1db1f72bef5
 NativeFormatImporter:
@@ -5084,9 +5084,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Materials/earth.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -5167,9 +5167,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Materials/earth.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: ef6223db6cd2fd94481bcb5ce352cc30
 NativeFormatImporter:
@@ -5188,9 +5188,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Materials/green tree.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -5271,9 +5271,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Materials/green tree.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: 162ad232b242eb042b91b10dc755c486
 NativeFormatImporter:
@@ -5292,9 +5292,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Materials/Material.003.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -5375,9 +5375,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Materials/Material.003.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: a4b1c9205184ab7479ebcb6d01e9bdaa
 NativeFormatImporter:
@@ -5396,9 +5396,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Materials/No Name.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -5479,9 +5479,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Materials/No Name.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: 36624e9898987d34da7dcc3c01a72523
 NativeFormatImporter:
@@ -5500,9 +5500,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Materials/pine tree green.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -5583,9 +5583,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Materials/pine tree green.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: 471bbc61de2af0a47bd80da0aacc49dc
 NativeFormatImporter:
@@ -5604,9 +5604,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Materials/trunk.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -5687,9 +5687,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Materials/trunk.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: 08c4b67273e724941900639ca93caabc
 NativeFormatImporter:
@@ -5708,9 +5708,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Model/Low Poly Island.fbx.meta
-================================================
+
 fileFormatVersion: 2
 guid: 9e1cb89bae143d046bb9dba32b57bed0
 ModelImporter:
@@ -5944,9 +5944,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Model/Materials.meta
-================================================
+
 fileFormatVersion: 2
 guid: 083961627088d3049935b73b4e8fc135
 folderAsset: yes
@@ -5958,9 +5958,9 @@ DefaultImporter:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Model/Materials/dark trunk.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -6041,9 +6041,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Model/Materials/dark trunk.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: b50f1c4e199dc3b47b56b0880d757857
 NativeFormatImporter:
@@ -6062,9 +6062,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Model/Materials/darken leafs.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -6145,9 +6145,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Model/Materials/darken leafs.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: d35ea29c48c3e1944a4f03cab15e36c2
 NativeFormatImporter:
@@ -6166,9 +6166,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Model/Materials/earth.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -6249,9 +6249,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Model/Materials/earth.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: 9d1ca55e2263fd54589900465f90d06e
 NativeFormatImporter:
@@ -6270,9 +6270,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Model/Materials/green tree.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -6353,9 +6353,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Model/Materials/green tree.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: c856162727dc18842bc191504f727456
 NativeFormatImporter:
@@ -6374,9 +6374,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Model/Materials/Material.003.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -6457,9 +6457,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Model/Materials/Material.003.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: 0b82edc333f454f4fab3b93e8ececd1a
 NativeFormatImporter:
@@ -6478,9 +6478,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Model/Materials/No Name.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -6561,9 +6561,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Model/Materials/No Name.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: 9fe81213c48f6e944a8a30f76f30a9c7
 NativeFormatImporter:
@@ -6582,9 +6582,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Model/Materials/pine brown.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -6665,9 +6665,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Model/Materials/pine brown.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: 23884aea9e628ee45a87314c9fd2483e
 NativeFormatImporter:
@@ -6686,9 +6686,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Model/Materials/pine tree green.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -6769,9 +6769,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Model/Materials/pine tree green.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: b67fe0ad79964244383e7633743fcc6b
 NativeFormatImporter:
@@ -6790,9 +6790,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Model/Materials/trunk.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -6873,9 +6873,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Model/Materials/trunk.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: 2b1bb1efbeb980540aa4164a74c61686
 NativeFormatImporter:
@@ -6894,9 +6894,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Scenes/DemoScene.unity
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!29 &1
@@ -7351,9 +7351,9 @@ Transform:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Scenes/DemoScene.unity.meta
-================================================
+
 fileFormatVersion: 2
 guid: 1811a0c822d2a6c45b5d1435bf7d07d2
 DefaultImporter:
@@ -7371,9 +7371,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials.meta
-================================================
+
 fileFormatVersion: 2
 guid: 57832ac6c71e6b44ebdf2a754a4b62d4
 folderAsset: yes
@@ -7385,9 +7385,9 @@ DefaultImporter:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Shaders.meta
-================================================
+
 fileFormatVersion: 2
 guid: a467af176e3ceba48899c668a09878d2
 folderAsset: yes
@@ -7399,9 +7399,9 @@ DefaultImporter:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Day1.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -7443,9 +7443,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Day1.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: 9aa8ed67591432941bb76f12eb23ff91
 NativeFormatImporter:
@@ -7464,9 +7464,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Day2.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -7508,9 +7508,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Day2.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: 5c80d49013691df48ac94280337e88ce
 NativeFormatImporter:
@@ -7529,9 +7529,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Day3.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -7573,9 +7573,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Day3.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: 56113b3b655ab7349bab4d7d405c258a
 NativeFormatImporter:
@@ -7594,9 +7594,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Day4.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -7641,9 +7641,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Day4.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: 5c57bb9da366e944a8f4ae9be4f413ec
 NativeFormatImporter:
@@ -7662,9 +7662,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Day5.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -7709,9 +7709,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Day5.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: 6225fa8890cf025489e57d3aa1d87260
 NativeFormatImporter:
@@ -7730,9 +7730,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Day6.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -7792,9 +7792,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Day6.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: bbbcd551076325545ba102ba8c308520
 NativeFormatImporter:
@@ -7813,9 +7813,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Day7.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -7861,9 +7861,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Day7.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: ddbcbb3899687ea469ed4a5fce1532df
 NativeFormatImporter:
@@ -7882,9 +7882,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Morning1.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -7926,9 +7926,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Morning1.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: 8fc56946a1b593c4d8e3e0e94483338e
 NativeFormatImporter:
@@ -7947,9 +7947,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Morning2.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -7991,9 +7991,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Morning2.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: 5464c15ff9c6ca04cb5790c1773e76fa
 NativeFormatImporter:
@@ -8012,9 +8012,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Morning3.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -8056,9 +8056,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Morning3.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: 022e71752654d3f4fa0cbe71b312ad20
 NativeFormatImporter:
@@ -8077,9 +8077,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Morning4.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -8125,9 +8125,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Morning4.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: c7a8e24b01cf73e4bad6eb3cb7d40acc
 NativeFormatImporter:
@@ -8146,9 +8146,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Night1.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -8193,9 +8193,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Night1.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: bbe9494f815f3c340956427c884b72a0
 NativeFormatImporter:
@@ -8214,9 +8214,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Night2.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -8258,9 +8258,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Night2.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: 52fcefd712182d743a781fde12426775
 NativeFormatImporter:
@@ -8279,9 +8279,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Night3.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -8323,9 +8323,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Night3.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: 135a7036ca1a07b4e9e162d80e6b6e77
 NativeFormatImporter:
@@ -8344,9 +8344,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Night4.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -8441,9 +8441,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Night4.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: ed1387202b1349540a5d6464f0f27488
 NativeFormatImporter:
@@ -8462,9 +8462,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Sunset1.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -8506,9 +8506,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Sunset1.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: 2441c79940171dc43b33badf9fe97828
 NativeFormatImporter:
@@ -8527,9 +8527,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Sunset2.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -8571,9 +8571,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Sunset2.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: 528363c5c1cf6a7458140c6851c77b68
 NativeFormatImporter:
@@ -8592,9 +8592,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Sunset3.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -8694,9 +8694,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Sunset3.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: 7ed994c1997814049b44c36a823bba6c
 NativeFormatImporter:
@@ -8715,9 +8715,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Sunset4.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -8763,9 +8763,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Sunset4.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: 20f6d22d93779de4ea6f62f8ab305593
 NativeFormatImporter:
@@ -8784,9 +8784,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Sunset5.mat
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
@@ -8832,9 +8832,9 @@ Material:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Materials/Sunset5.mat.meta
-================================================
+
 fileFormatVersion: 2
 guid: baef7505b9e48404cb74585601f49ff9
 NativeFormatImporter:
@@ -8853,9 +8853,9 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Shaders/Stylized Sky.shader
-================================================
+
 ﻿Shader "Stylized/Sky"
 {
     Properties
@@ -8968,9 +8968,9 @@ FILE: Assets/Customizable Skybox/Stylized Sky/Shaders/Stylized Sky.shader
 
 
 
-================================================
+
 FILE: Assets/Customizable Skybox/Stylized Sky/Shaders/Stylized Sky.shader.meta
-================================================
+
 fileFormatVersion: 2
 guid: eb3c6fb598ded4c71b8968e1c40a3b4d
 ShaderImporter:
@@ -8990,15 +8990,15 @@ AssetOrigin:
 
 
 
-================================================
+
 FILE: Assets/Models/Barrel_550verts.fbx
-================================================
+
 [Binary file]
 
 
-================================================
+
 FILE: Assets/Models/Barrel_550verts.fbx.meta
-================================================
+
 fileFormatVersion: 2
 guid: f7af3d46bde553644a017f8665d4b25e
 ModelImporter:
@@ -9109,9 +9109,9 @@ ModelImporter:
 
 
 
-================================================
+
 FILE: Assets/Models/bean bag.fbx.meta
-================================================
+
 fileFormatVersion: 2
 guid: 0c5a9cf7e1cefc243a6bcaea586f7220
 ModelImporter:
@@ -9222,15 +9222,15 @@ ModelImporter:
 
 
 
-================================================
+
 FILE: Assets/Models/InfosStand.fbx
-================================================
+
 [Binary file]
 
 
-================================================
+
 FILE: Assets/Models/InfosStand.fbx.meta
-================================================
+
 fileFormatVersion: 2
 guid: e81b6efe553c87e4ea7948c4ceb85707
 ModelImporter:
@@ -9341,15 +9341,15 @@ ModelImporter:
 
 
 
-================================================
+
 FILE: Assets/Models/OfficeTable.fbx
-================================================
+
 [Binary file]
 
 
-================================================
+
 FILE: Assets/Models/OfficeTable.fbx.meta
-================================================
+
 fileFormatVersion: 2
 guid: fdd52a9b77b1a6f4ba96b1b6c220a187
 ModelImporter:
@@ -9460,9 +9460,9 @@ ModelImporter:
 
 
 
-================================================
+
 FILE: Assets/Models/Pillow_130kVerts.fbx.meta
-================================================
+
 fileFormatVersion: 2
 guid: 026d1e42c3a4de04db7a3e6050eafc09
 ModelImporter:
@@ -9573,9 +9573,9 @@ ModelImporter:
 
 
 
-================================================
+
 FILE: Assets/Models/Pillow_900verts.fbx.meta
-================================================
+
 fileFormatVersion: 2
 guid: 46307e4dcec280e4ab0556f57b7503d8
 ModelImporter:
@@ -9686,15 +9686,15 @@ ModelImporter:
 
 
 
-================================================
+
 FILE: Assets/Models/SM_table.fbx
-================================================
+
 [Binary file]
 
 
-================================================
+
 FILE: Assets/Models/SM_table.fbx.meta
-================================================
+
 fileFormatVersion: 2
 guid: 2e95f8db5e81c8448936326262fd9cb0
 ModelImporter:
@@ -9805,15 +9805,15 @@ ModelImporter:
 
 
 
-================================================
+
 FILE: Assets/Models/stone-chair.fbx
-================================================
+
 [Binary file]
 
 
-================================================
+
 FILE: Assets/Models/stone-chair.fbx.meta
-================================================
+
 fileFormatVersion: 2
 guid: acf2d6ed4713be54e958edddb0db62a3
 ModelImporter:
@@ -9924,9 +9924,9 @@ ModelImporter:
 
 
 
-================================================
+
 FILE: Assets/Models/tab1.fbx.meta
-================================================
+
 fileFormatVersion: 2
 guid: 4c36943f5b21ac241bcb28f9cd4bb10c
 ModelImporter:
@@ -10037,9 +10037,9 @@ ModelImporter:
 
 
 
-================================================
+
 FILE: Assets/Models/teapot.fbx.meta
-================================================
+
 fileFormatVersion: 2
 guid: 348186d8b5e949549bb6403bc8a90c2f
 ModelImporter:
@@ -10150,9 +10150,9 @@ ModelImporter:
 
 
 
-================================================
+
 FILE: Assets/Models/Tire_23kVerts.fbx.meta
-================================================
+
 fileFormatVersion: 2
 guid: 1bfb2b418b144f44eb2a81b73e0ec72c
 ModelImporter:
@@ -10263,15 +10263,15 @@ ModelImporter:
 
 
 
-================================================
+
 FILE: Assets/Models/Tire_400verts.fbx
-================================================
+
 [Binary file]
 
 
-================================================
+
 FILE: Assets/Models/Tire_400verts.fbx.meta
-================================================
+
 fileFormatVersion: 2
 guid: 11258472ab518b74ab9ac1b788d0b2dc
 ModelImporter:
@@ -10382,15 +10382,15 @@ ModelImporter:
 
 
 
-================================================
+
 FILE: Assets/Models/trashCan.fbx
-================================================
+
 [Binary file]
 
 
-================================================
+
 FILE: Assets/Models/trashCan.fbx.meta
-================================================
+
 fileFormatVersion: 2
 guid: 2285e4e2abc9a764e918dda9459d84d6
 ModelImporter:
@@ -10501,9 +10501,9 @@ ModelImporter:
 
 
 
-================================================
+
 FILE: Assets/Models/WOOD CHAIR1.fbx.meta
-================================================
+
 fileFormatVersion: 2
 guid: f4fe0dda87f757e4ba31d7dd24a107c8
 ModelImporter:
@@ -10614,9 +10614,9 @@ ModelImporter:
 
 
 
-================================================
+
 FILE: Assets/Prefabs/BadShape.meta
-================================================
+
 fileFormatVersion: 2
 guid: 752e0148f57bead4daf7a0af0eaba9f2
 folderAsset: yes
@@ -10628,9 +10628,9 @@ DefaultImporter:
 
 
 
-================================================
+
 FILE: Assets/Prefabs/Ground.prefab
-================================================
+
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!1 &8686148080936043720
@@ -10771,9 +10771,9 @@ MonoBehaviour:
 
 
 
-================================================
+
 FILE: Assets/Prefabs/Ground.prefab.meta
-================================================
+
 fileFormatVersion: 2
 guid: 9ea6cdd877e5fa64fbe9c4f1e00067dc
 PrefabImporter:
