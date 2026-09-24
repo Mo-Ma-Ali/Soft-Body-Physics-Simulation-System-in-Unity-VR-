@@ -1,4 +1,3 @@
-(Files content cropped to 300k characters, download full ingest to see more)
 ================================================
 FILE: README.md
 ================================================
@@ -49,7 +48,6 @@ The project was developed to study physics simulation and the behavior of deform
 ================================================
 FILE: ignore.conf
 ================================================
-
 Library
 library
 Temp
@@ -117,7 +115,6 @@ Desktop.ini
 ================================================
 FILE: .vsconfig
 ================================================
-
 {
   "version": "1.0",
   "components": [
@@ -130,7 +127,6 @@ FILE: .vsconfig
 ================================================
 FILE: Assets/Readme.asset
 ================================================
-
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!114 &11400000
@@ -171,7 +167,6 @@ MonoBehaviour:
 ================================================
 FILE: Assets/Readme.asset.meta
 ================================================
-
 fileFormatVersion: 2
 guid: 8105016687592461f977c054a80ce2f2
 NativeFormatImporter:
@@ -186,7 +181,6 @@ NativeFormatImporter:
 ================================================
 FILE: Assets/Animation.meta
 ================================================
-
 fileFormatVersion: 2
 guid: f945e2de4e67e4d4298720359fd706ea
 folderAsset: yes
@@ -201,7 +195,6 @@ DefaultImporter:
 ================================================
 FILE: Assets/Customizable Skybox.meta
 ================================================
-
 fileFormatVersion: 2
 guid: 7c5e1016ce6fba44ca28ee4414f70db9
 folderAsset: yes
@@ -216,7 +209,6 @@ DefaultImporter:
 ================================================
 FILE: Assets/delay.cs
 ================================================
-
 using UnityEngine;
 using System.Collections;
 public class delay : MonoBehaviour
@@ -245,7 +237,6 @@ public class delay : MonoBehaviour
 ================================================
 FILE: Assets/delay.cs.meta
 ================================================
-
 fileFormatVersion: 2
 guid: bb6847ee56e9f974c852de4735b8fe4a
 
@@ -253,7 +244,6 @@ guid: bb6847ee56e9f974c852de4735b8fe4a
 ================================================
 FILE: Assets/InputSystem_Actions.inputactions
 ================================================
-
 {
     "name": "InputSystem_Actions",
     "maps": [
